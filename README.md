@@ -1,4 +1,4 @@
-# koampvue
+# koa2-mpvue
 
 > A Mpvue project
 
